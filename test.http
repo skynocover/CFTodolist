@@ -1,0 +1,23 @@
+@url=https://todolist.skynocover.workers.dev
+
+
+
+
+### Version
+GET {{url}}
+
+### 
+
+### Account
+
+###
+
+### Login
+PUT {{url}}
+Content-Type: application/json
+
+{
+    "name": "Fred at four"
+}
+
+
